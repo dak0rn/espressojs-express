@@ -1,6 +1,6 @@
 {
   "name": "espressojs-express",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A package combining espressojs with express",
   "main": "index.js",
   "scripts": {
@@ -27,7 +27,7 @@
   },
   "homepage": "https://github.com/dak0rn/espressojs-express",
   "dependencies": {
-    "espressojs": "^2.2.1",
+    "espressojs": "^2.3.0",
     "express": "^4.12.3"
   }
 }

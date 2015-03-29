@@ -22,7 +22,7 @@ module.exports = function( api ) {
             query: request.query,
             method: request.method.toLowerCase(),
             path: request.params[0],
-            header: request.headers
+            headers: request.headers
         });
 
         var promise = api.dispatchRequest(apiRequest);
