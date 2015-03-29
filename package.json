@@ -25,5 +25,9 @@
   "bugs": {
     "url": "https://github.com/dak0rn/espressojs-express/issues"
   },
-  "homepage": "https://github.com/dak0rn/espressojs-express"
+  "homepage": "https://github.com/dak0rn/espressojs-express",
+  "dependencies": {
+    "espressojs": "^2.2.1",
+    "express": "^4.12.3"
+  }
 }
