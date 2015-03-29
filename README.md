@@ -1,5 +1,8 @@
 # espressojs-express
-A package connecting espressojs with express
+A package connecting espressojs with express.
+
+Used to create JSON REST API and also as an example demonstrating how to connect
+espressojs to server frameworks.
 
 # Installation
 
@@ -34,4 +37,4 @@ server.listen(9000);
 This would start an express server listening in port 9000 with the API exposed
 under `/pub/api`.
 
-Please check the [usage.js file]() for a detailed usage example.
+Please check the [usage.js file](https://github.com/dak0rn/espressojs-express/blob/master/usage.js) for a detailed usage example.
