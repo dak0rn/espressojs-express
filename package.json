@@ -1,0 +1,29 @@
+{
+  "name": "espressojs-express",
+  "version": "1.0.0",
+  "description": "A package combining espressojs with express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dak0rn/espressojs-express.git"
+  },
+  "keywords": [
+    "espressojs",
+    "rest",
+    "api",
+    "server",
+    "framework",
+    "express",
+    "http",
+    "https"
+  ],
+  "author": "dak0rn",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dak0rn/espressojs-express/issues"
+  },
+  "homepage": "https://github.com/dak0rn/espressojs-express"
+}
