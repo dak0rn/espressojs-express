@@ -10,7 +10,7 @@
 // Please install espressojs and express using npm
 var Espresso = require('espressojs');
 var express  = require('express');
-var espressoexpress = require('./index');
+var espressoexpress = require('espressojs-express');
 
 // Create a new API
 var api = new Espresso({
