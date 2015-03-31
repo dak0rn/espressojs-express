@@ -1,6 +1,6 @@
 {
   "name": "espressojs-express",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A package combining espressojs with express",
   "main": "index.js",
   "scripts": {
