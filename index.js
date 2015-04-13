@@ -15,7 +15,7 @@ module.exports = function( api ) {
 
         var apiRequest = new Espresso.Request({
             body: request.body,
-            cookies: request.cookies,
+            cookie: request.cookies,
             hostname: request.hostname,
             ip: request.ip,
             protocol: request.protocol,
